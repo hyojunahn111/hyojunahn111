@@ -3,6 +3,8 @@
 ![HyoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojunahn111&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojunahn111&layout=compact&theme=gruvbox)
+
+blog : https://eloquence-developers.tistory.com/
 <!--
 **hyojunahn111/hyojunahn111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
