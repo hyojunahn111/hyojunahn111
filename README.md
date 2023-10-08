@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi,+Hello👋+This+is+Hyojun's+Github)](https://git.io/typing-svg)
 
 📡My Major is Software Engineering. <br />
-📚I'm Studing Java, DB, and Linux for background development.
+📚I'm Studing Java, DB, and Linux for BE.
 
 <div align=center><h2>  🐧 STATS 🐧  </h2></div>
 <div align=center> 
