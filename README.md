@@ -1,14 +1,25 @@
 ### <div align=center><h1>Hi, Hello _ _) 👋</h1></div>
+
 <div align=center><h2>  🐧 STATS 🐧  </h2></div>
 <div align=center> 
-  <p>
+<p>
 
 ![HyoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojunahn111&show_icons=true&theme=gruvbox)
 
+<p>
+</div>
+
+
+<div align=center><h2>  🐧 Most Languages 🐧  </h2></div>
+<div align=center> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojunahn111&layout=compact&theme=gruvbox)
 
+</div>
+
+<div align=center> 
 blog : https://eloquence-developers.tistory.com/
-  <p>
+  
 </div>
 <!--
 **hyojunahn111/hyojunahn111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
