@@ -12,11 +12,10 @@
 <p>
 </div>
 
-
 <div align=center><h2>  🐧 Most Languages 🐧  </h2></div>
-<div align=center> 
+<div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojunahn111&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojunahn111&layout=compact&theme=gruvbox&exclude_repo=libbitcoin_test)
 
 </div>
 
@@ -40,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
