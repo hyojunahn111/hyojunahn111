@@ -20,9 +20,9 @@
 
 <div align=center><h2> 📬 Contact 📬 </h2></div>
 <div align=center><a href="https://www.instagram.com/im_not_bp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_not_bp" height="30" width="40" /></a>
-
+  
 <div align=center> 
-blog : https://eloquence-developers.tistory.com/
+<a href="https://eloquence-developers.tistory.com/"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 
 <div align=center>
 <a href="discordapp.com/users/404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
