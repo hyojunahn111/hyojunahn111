@@ -25,7 +25,7 @@
 blog : https://eloquence-developers.tistory.com/
 
 <div align=center>
-<a href="404510092034048011" <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   
 </div>
 <!--
