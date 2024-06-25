@@ -23,11 +23,9 @@
 <p></p>
   
 <div align=center> 
-<a href="https://eloquence-developers.tistory.com/"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://eloquence-developers.tistory.com/"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>&nbsp<a href="discordapp.com/users/404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <p></p>
 
-<div align=center>
-<a href="discordapp.com/users/404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   
 </div>
 <!--
