@@ -24,7 +24,8 @@
   
 <div align=center> 
 <a href="https://eloquence-developers.tistory.com/"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>&nbsp
-<a href="https://discordapp.com/users/404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discordapp.com/users/404510092034048011"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp
+<a href="https://www.notion.so/Main-9f3a475dd6bf477cb196f20d35c3359d"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <p></p>
 
   
